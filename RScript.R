@@ -10,3 +10,4 @@ m_1 <- lm(data = mtcars, formula = hp~mpg)
 
 # old comment
 
+print('Hello!')
